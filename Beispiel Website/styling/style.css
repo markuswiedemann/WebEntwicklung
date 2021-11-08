@@ -1,0 +1,26 @@
+a{
+    color: green;
+}
+
+h1{
+    color: indigo;
+    background: grey;
+}
+
+div{
+    color: indigo;
+    background: grey;
+}
+
+span{
+    color: blue;
+}
+
+body{
+    font-size: 20px;
+}
+
+img{
+    width: 500px;
+    border: 20px solid black;
+}
